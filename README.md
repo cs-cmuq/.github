@@ -1,1 +1,2 @@
-# .github
+# CMU Qatar Computer Science
+## Github Organization
